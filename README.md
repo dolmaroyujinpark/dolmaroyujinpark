@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Yujin Park  
-### AI Software Engineer
+### AI · Software Engineer
 
 ✨ *Interested in building intelligent systems through vision, data, and interaction.*
 
