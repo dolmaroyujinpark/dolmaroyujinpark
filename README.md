@@ -1,12 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Yujin Park  
-### AI · Software Engineer
+## 👋 Hi, I'm Yujin Park  
+**AI · Software Engineer**
 
 ✨ *Interested in building AI-powered systems that connect data, code, and real user needs.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-dolmaroyujinpark-181717?style=flat&logo=github)](https://github.com/dolmaroyujinpark)
-[![Email](https://img.shields.io/badge/Email-pyj02024847@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
+[GitHub](https://github.com/dolmaroyujinpark) · [Email](mailto:pyj02024847@gmail.com)
 
 </div>
 
