@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Yujin Park  
 ### AI · Software Engineer
 
-✨ *Interested in building intelligent systems through vision, data, and interaction.*
+✨ *Interested in building AI-powered systems that connect data, code, and real user needs.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-dolmaroyujinpark-181717?style=flat&logo=github)](https://github.com/dolmaroyujinpark)
 [![Email](https://img.shields.io/badge/Email-pyj02024847@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
@@ -13,21 +13,21 @@
 ---
 
 ## 🧠 About Me
-- AI Software Engineer with a strong interest in **Computer Vision** and **Multimodal Learning**
-- Enjoys transforming research ideas into **practical, working systems**
-- Values clear structure, fast execution, and continuous improvement
-- **MBTI: ENTJ** — strategic, execution-oriented, and goal-driven
+- AI Software Engineer interested in applying AI to **real, usable services**
+- Enjoys learning new technologies quickly and turning ideas into **working implementations**
+- Focuses on clear logic, maintainable code, and iterative improvement
+- **MBTI: ENTJ** — proactive, execution-oriented, and collaborative
 
 ---
 
 ## 🔬 Experience & Activities
 - **Embedded & Intelligence Computing Lab (EIC)**  
-  Undergraduate Researcher
+  Undergraduate Researcher  
+  *(Worked on algorithm implementation and experimental validation)*
 - **KB Kookmin Bank × YMCA**  
   Social Innovation Project (LaonAtti 22nd)
 - **PT People** – University Presentation Club  
   PR Director
-
 
 ---
 
@@ -63,10 +63,10 @@
 ---
 
 ## ✨ Interests
-- Computer Vision & Perception
-- Multimodal Learning
-- AI-powered services and system design
-- Bridging research and real-world applications
+- AI-driven product features
+- Backend & system design
+- LLM and AI tools for development productivity
+- Turning experimental ideas into practical solutions
 
 ---
 
