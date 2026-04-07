@@ -31,5 +31,3 @@
 **Embedded & Intelligence Computing Lab (EIC)** — Undergraduate Researcher  
 
 **🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:4B0082,100:6C63FF&height=100&section=footer" />
