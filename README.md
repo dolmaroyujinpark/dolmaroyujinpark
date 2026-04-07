@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Yujin%20Park&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Software%20Engineer&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:4B0082,100:6C63FF&height=180&section=header&text=Yujin%20Park&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Software%20Engineer&descSize=18&descColor=C4B5FD&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
@@ -32,4 +32,4 @@
 
 **🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:4B0082,100:6C63FF&height=100&section=footer" />
