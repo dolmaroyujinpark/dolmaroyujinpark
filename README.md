@@ -1,10 +1,10 @@
 <div align="center">
 
-## 👋 Hi, I'm Yujin Park
+# Yujin Park
 
-**AI · Software Engineer**
+**`AI · Software Engineer`**
 
-✨ *Building AI-powered systems that connect data, code, and real user needs.*
+*Building AI-powered systems that connect data, code, and real user needs.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dolmaroyujinpark) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
 
@@ -37,4 +37,3 @@
 **🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
 </div>
-
