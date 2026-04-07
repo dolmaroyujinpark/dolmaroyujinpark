@@ -4,7 +4,7 @@
 
 **`AI · Software Engineer`**
 
-*Building AI-powered systems that connect data, code, and real user needs.*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI-powered+systems;Turning+ideas+into+working+code;Clear+logic%2C+maintainable+code)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dolmaroyujinpark) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
 
