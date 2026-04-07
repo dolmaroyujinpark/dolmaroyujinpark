@@ -1,10 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Yujin%20Park&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Software%20Engineer&descSize=18&descColor=8B949E&descAlignY=55&animation=fadeIn" />
+
 <div align="center">
-
-# Yujin Park
-
-**`AI · Software Engineer`**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Building+AI-powered+systems;Turning+ideas+into+working+code;Clear+logic%2C+maintainable+code)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dolmaroyujinpark) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
 
@@ -36,4 +32,4 @@
 
 **🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=100&section=footer" />
