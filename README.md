@@ -26,6 +26,16 @@
 
 ---
 
+### 📱 Projects
+
+**[드림트립 (DreamTrip)](https://apps.apple.com/kr/app/id6761293418)** — iOS · App Store 출시
+
+> 여행지 현지어로 문장을 소리 내어 말해야 알람이 종료되는 기상 알람 앱. 매일 아침을 외국어 학습 루틴으로 바꾸는 아이디어를 직접 앱으로 출시.
+
+[![App Store](https://img.shields.io/badge/App_Store-드림트립-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+
+---
+
 ### 🔬 Experience
 
 **Embedded & Intelligence Computing Lab (EIC)** — Undergraduate Researcher  
