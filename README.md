@@ -32,17 +32,4 @@
 
 **🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
-<table>
-<tr>
-<td width="92" align="center">
-<a href="https://apps.apple.com/kr/app/id6761293418"><img src="assets/dreamtrip.png" width="64" alt="드림트립" /></a>
-</td>
-<td>
-
-**🚀 드림트립 (DreamTrip)** — iOS 앱 · App Store 출시
-
-[![App Store에서 보기](https://img.shields.io/badge/App_Store에서_보기-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
-
-</td>
-</tr>
-</table>
+[<img src="assets/dreamtrip.png" width="22" align="top" />](https://apps.apple.com/kr/app/id6761293418) **드림트립 (DreamTrip)** — iOS 앱 출시 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
