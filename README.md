@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 - Interested in applying AI to **real, usable services**
 - Enjoys learning new technologies quickly and turning ideas into **working implementations**
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧱 Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -26,10 +26,10 @@
 
 ---
 
-### 🔬 Experience
+### Experience
 
 **Embedded & Intelligence Computing Lab (EIC)** — Undergraduate Researcher  
 
-**🏆 Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
+**Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
 [<img src="assets/dreamtrip.png" width="22" align="top" />](https://apps.apple.com/kr/app/id6761293418) **드림트립 (DreamTrip)** — iOS 앱 출시 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
