@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:4B0082,100:6C63FF&height=180&section=header&text=Yujin%20Park&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%C2%B7%20Software%20Engineer&descSize=18&descColor=C4B5FD&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0533,50:4B0082,100:6C63FF&height=180&section=header&text=Yujin%20Park&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=C4B5FD&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dolmaroyujinpark) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-386FA4?style=flat&logo=vercel&logoColor=white)](https://yujin-park-portfolio.vercel.app/) [![Blog](https://img.shields.io/badge/Blog-18181B?style=flat&logo=githubpages&logoColor=white)](https://dolmaroyujinpark.github.io/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
 
 </div>
 
@@ -10,9 +10,8 @@
 
 ### About Me
 
-- Interested in applying AI to **real, usable services**
-- Enjoys learning new technologies quickly and turning ideas into **working implementations**
-- Focuses on clear logic, maintainable code, and iterative improvement
+- 새로운 기술을 익혀 실제 서비스에 녹여내는 개발자입니다.
+- 학부 시절부터 팀장을 맡아 iOS 앱 출시와 AI 서비스 배포를 이끌었습니다.
 
 ---
 
@@ -28,8 +27,10 @@
 
 ### Experience
 
-**Embedded & Intelligence Computing Lab (EIC)** — Undergraduate Researcher  
+**SK AX AI Leader Academy (SKALA)** — 모델 서빙·AIOps 과정 프로젝트 1위
 
-**Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
+**EIC Lab** — 학부연구생 (임베디드·지능형 컴퓨팅)
+
+**우수논문상 (제1저자)** — 한국산업정보학회 2025 춘계학술대회
 
 [<img src="assets/dreamtrip.png" width="22" align="top" />](https://apps.apple.com/kr/app/id6761293418) **드림트립 (DreamTrip)** — iOS 앱 출시 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
