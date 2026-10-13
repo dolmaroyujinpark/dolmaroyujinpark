@@ -8,13 +8,6 @@
 
 ---
 
-### About Me
-
-- 새로운 기술을 익혀 실제 서비스에 녹여내는 개발자입니다.
-- 학부 시절부터 팀장을 맡아 iOS 앱 출시와 AI 서비스 배포를 이끌었습니다.
-
----
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,7 +20,7 @@
 
 ### Experience
 
-**SK AX AI Leader Academy (SKALA)** — 모델 서빙·AIOps 과정 프로젝트 1위
+**SK AX AI Leader Academy (SKALA)**
 
 **EIC Lab** — 학부연구생 (임베디드·지능형 컴퓨팅)
 
