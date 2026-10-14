@@ -24,8 +24,8 @@
 
 **SK AX AI Leader Academy (SKALA)**
 
-**EIC Lab** — 학부연구생 (임베디드·지능형 컴퓨팅)
+**Embedded & Intelligence Computing Lab (EIC)** — Undergraduate Researcher
 
-**우수논문상 (제1저자)** — 한국산업정보학회 2025 춘계학술대회
+**Outstanding Paper Award (1st Author)** — Korean Institute of Industrial Information Systems, Spring Conference 2025
 
-[<img src="assets/dreamtrip.png" width="22" align="top" />](https://apps.apple.com/kr/app/id6761293418) **드림트립 (DreamTrip)** — iOS 앱 출시 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
+[<img src="assets/dreamtrip.png" width="22" align="top" />](https://apps.apple.com/kr/app/id6761293418) **DreamTrip** — iOS App Released [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/kr/app/id6761293418)
