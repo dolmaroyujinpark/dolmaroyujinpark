@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/Blog-18181B?style=flat&logo=githubpages&logoColor=white)](https://dolmaroyujinpark.github.io/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pyj02024847@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-18181B?style=flat&logo=githubpages&logoColor=white)](https://dolmaroyujinpark.github.io/)
 
 </div>
 
